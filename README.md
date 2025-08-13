@@ -26,4 +26,4 @@ The objective of this project is to design and develop an interactive Healthcare
 
  – How is patient volume changing over time?
 
- ## Dahsboard Interaction <a href="
+ ## Dahsboard Interaction <a href="https://github.com/Dhruviprajapati05/HealthCare-sales-dashboard-using-powerBi/blob/main/dashboard.png">View Dashboard </a>
