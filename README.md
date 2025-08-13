@@ -5,5 +5,23 @@ Created interactive dashboards using Power BI with visualizations like bar chart
 
 The objective of this project is to design and develop an interactive Healthcare Analytics Dashboard using Power BI to visualize, monitor, and analyze key healthcare performance indicators. This dashboard aims to provide actionable insights into patient demographics, treatment outcomes, hospital performance, and resource utilization, enabling healthcare stakeholders to make informed, data-driven decisions that improve patient care, operational efficiency, and overall service quality.
 
-##Dataset used
+## Dataset used
 - <a href="https://github.com/Dhruviprajapati05/HealthCare-sales-dashboard-using-powerBi/blob/main/Healthcare.xlsx">HealthCare Dataset</a>
+
+## Questions(KPIs)
+
+ - How many patients were treated in a given period?
+
+ – What is the age and gender distribution of patients?
+
+ – Which health issues are most common?
+
+ – Which departments handle the most cases?
+\
+– How long do patients stay in the hospital on average?
+
+ – What is the success rate of treatments?
+
+– What is the total revenue generated?
+
+ – How is patient volume changing over time?
