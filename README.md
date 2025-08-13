@@ -4,3 +4,5 @@ Created interactive dashboards using Power BI with visualizations like bar chart
 ## Project Objective:
 
 The objective of this project is to design and develop an interactive Healthcare Analytics Dashboard using Power BI to visualize, monitor, and analyze key healthcare performance indicators. This dashboard aims to provide actionable insights into patient demographics, treatment outcomes, hospital performance, and resource utilization, enabling healthcare stakeholders to make informed, data-driven decisions that improve patient care, operational efficiency, and overall service quality.
+
+##Dataset used
