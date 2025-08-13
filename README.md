@@ -34,38 +34,38 @@ The objective of this project is to design and develop an interactive Healthcare
 
 Set the goal of the dashboard (e.g., monitor patient data, track hospital performance).
 
-Data Collection
+### Data Collection
 
 Gather the healthcare dataset (patient records, treatments, revenue, etc.).
 
-Data Cleaning & Preparation
+### Data Cleaning & Preparation
 
 Remove duplicates, handle missing values, and format data properly.
 
-Data Loading
+### Data Loading
 
 Import the cleaned dataset into Power BI.
 
-Data Modeling
+### Data Modeling
 
 Create relationships between tables (e.g., Patients ↔ Departments).
 
-KPI Selection
+### KPI Selection
 
 Choose main metrics (Total Patients, Top Diseases, Revenue, etc.).
 
-Dashboard Design
+### Dashboard Design
 
 Create charts, cards, and filters for clear visualization.
 
-Interactivity Setup
+### Interactivity Setup
 
 Add slicers, filters, and drill-through options for easy exploration.
 
-Testing & Validation
+### Testing & Validation
 
 Verify data accuracy and dashboard functionality.
 
-Deployment & Sharing
+### Deployment & Sharing
 
 Publish the dashboard to Power BI Service and share with stakeholders.
