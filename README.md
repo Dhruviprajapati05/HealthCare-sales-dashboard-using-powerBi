@@ -74,6 +74,7 @@ Publish the dashboard to Power BI Service and share with stakeholders.
 <img width="1172" height="662" alt="dashboard" src="https://github.com/user-attachments/assets/634b5b6d-e75e-457a-8ffc-ec5861eef6d2" />
 
 ## Dashboard Work 
+<a href="https://github.com/Dhruviprajapati05/HealthCare-sales-dashboard-using-powerBi/blob/main/dashboard_video.mp4"> Dashboard video </a>
 
 
 
